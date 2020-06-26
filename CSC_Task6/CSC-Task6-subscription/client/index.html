@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Task6 Stripe Subscriptions</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="A demo of Stripe Billing" />
+
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/global.css" />
+    <script src="https://js.stripe.com/v3/"></script>
+    <script src="/script.js" defer></script>
+  </head>
+
+  <body class="antialiased p-6">
+    <nav class="flex items-center justify-between flex-wrap">
+      
+      <div>
+        
+      </div>
+    </nav>
+    <div class="flex justify-center">
+      <div class="w-full max-w-sm m-6">
+        
+        <div class="text-pasha font-semibold text-xl mb-4">
+          Sign up using your email address
+        </div>
+
+        <form id="signup-form">
+          <div class="w-full mb-2">
+           
+            <input
+              class="appearance-none border-2 border-gray-200 rounded-md w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-pasha"
+              id="email"
+              type="email"
+              placeholder="Email address"
+              required
+            />
+          </div>
+
+          <button
+            id="email-submit"
+            class="w-full bg-pasha hover:bg-red-200 hover:shadow-outline rounded-md hover:text-pasha hover:border hover:border-black focus:shadow-outline text-white focus:bg-white focus:text-pasha font-light py-2 px-4 rounded"
+            type="submit"
+          >
+            <div id="loading" class="hidden">Signing up...</div>            
+            <span id="button-text">Sign up</span>
+          </button>
+          <div id="loader" class="hidden"><img src="/images/ajax-loader.gif"></div>
+        </form>
+      </div>
+    </div>
+    <div
+      class="transition transform fixed bottom-0 inset-x-0 px-2 pb-4 sm:px-0 sm:pb-6"
+    >
+      <a
+        href="https://github.com/stripe-samples"
+        class="flex items-center justify-between rounded-lg shadow-lg pl-6 pr-4 py-3 bg-white sm:hidden"
+      >
+        <p class="text-pasha">
+          <strong class="font-medium">
+            View
+          </strong>
+          Stripe sample code
+        </p>
+        <span
+          class="flex items-center justify-center px-3 py-2 border text-base leading-6 font-medium rounded-md text-gray-900 bg-white hover:text-gray-600 focus:outline-none focus:shadow-outline transition ease-in-out duration-150"
+        >
+          →
+        </span>
+      </a>
+      <div class="hidden sm:block max-w-8xl mx-auto px-4 lg:px-6">
+        <div class="py-3 pl-6 pr-3 rounded-lg bg-white shadow-lg">
+          <div class="flex items-center justify-between flex-wrap">
+            <div class="w-full flex-1 flex items-center sm:w-0">
+              
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <footer class="h-24"></footer>
+</html>
+
+

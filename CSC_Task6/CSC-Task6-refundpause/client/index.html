@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Stripe Payment Page Sample</title>
+    <link href="https://stripe-samples.github.io/developer-office-hours/demo.css" rel="stylesheet" type="text/css">
+  </head>
+  <style>
+    #payment-table {
+        max-width: 720px;
+        width: 100%;
+        margin: 0 auto;
+        border: 1px solid #e8e8fb;
+    }
+    table td,th {
+        padding:5px;
+    }
+    td,th{
+        text-align: left;
+    }
+    
+</style>
+  <body>
+    <div id="main">
+      <div id="container">
+        <div id="panel">
+          <h1>List of Subscriptions</h1>
+
+        </div>
+      </div>
+      <div id="msg" role="alert"></div>
+        <div id="payment-table">
+            <table>
+                <thead>
+                    <Tr>
+                        <th>Subscription Id</th>
+                        <th>Customer Id</th>
+                        <th>Amount</th>
+                        <th>Interval</th>
+                        <th>&nbsp;</th>
+                        <th>Pause Subscription</th>
+                        <th></th>
+                    </Tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    </div>
+  </body>
+
+  <script>
+
+var displayMsg = function(msg){
+          var msgField = document.querySelector("#msg");
+          msgField.textContent = msg;
+          setTimeout(function(){
+                msgField.textContent= "";
+          },10000);
+      }
+    function formatAmount(amt){
+          return 'S$' + (amt/100.0);
+      } 
+
+function generateHtmlForSubs(subscriptions){
+          var subs = subscriptions.items.data[0];
+          result = `<tr id="${subscriptions.id}"> <td>${(subscriptions.id)}</td> <td>${(subscriptions.customer)}</td> <td>${formatAmount(subscriptions.plan.amount)}</td> 
+            <td>${(subscriptions.plan.interval)}</td><td></td>`;
+            
+            if (subscriptions.pause_collection == null){
+                result += `<td><button class="refund-btn" data-subscriptions="${subscriptions.id}" onclick="pauseSubscription(this)">Pause</button></td></tr>`;
+            }
+            else{
+                result += `<td>Subscription paused</td><td><button class="refund-btn" data-subscriptions="${subscriptions.id}" onclick="resumeSubscription(this)">Resume</button></td></tr>`
+            }
+           
+            return result;
+          }
+
+    function init(){
+          customer_id = window.location.pathname.split("/").pop();
+          url = `/subs`;
+          return fetch(url,{
+              method:'get',
+              headers: {'Content-Type':'application/json'}
+          })
+          .then(function(reponse){
+            return reponse.json();
+          })
+          .then(function(json){
+            subs = json.subscriptions;
+            console.log(subs);
+
+            var tableBody = document.getElementById('payment-table').
+                getElementsByTagName('tbody')[0];
+
+                subs.forEach((sub) => {
+                var newRow = tableBody.insertRow(tableBody.rows.length);
+                newRow.innerHTML = generateHtmlForSubs(sub);
+                });
+          });
+      }
+
+      function pauseSubscription(button){
+          var paymentRow = button.parentNode.parentNode;
+          subscription_id = button.dataset.subscriptions;
+          
+          var params = {}
+          params.subscription_id = subscription_id;
+
+          return fetch("/pause-subscription", {
+              method: "post",
+              headers : {
+                "Content-Type": "application/json"
+              },
+              body: JSON.stringify(params)
+          })
+          .then(function(result){
+              return result.json();
+          })
+          .then(function(json){
+              if(json.error){
+                  displayMsg("Error: "+json.error.message);
+                  
+              }
+              else{
+                  pause_sub = json.pause_sub;
+                  console.log(pause_sub);
+                  displayMsg("Subscription Paused! "+pause_sub.id);
+                  paymentRow.innerHTML = generateHtmlForSubs(pause_sub);
+                  
+              }
+          });
+      };
+
+      function resumeSubscription(button){
+          var paymentRow = button.parentNode.parentNode;
+          subscription_id = button.dataset.subscriptions;
+          
+          var params = {}
+          params.subscription_id = subscription_id;
+
+          return fetch("/resume-subscription", {
+              method: "post",
+              headers : {
+                "Content-Type": "application/json"
+              },
+              body: JSON.stringify(params)
+          })
+          .then(function(result){
+              return result.json();
+          })
+          .then(function(json){
+              if(json.error){
+                  displayMsg("Error: "+json.error.message);
+                  
+              }
+              else{
+                  resume_sub = json.resume_sub;
+                  displayMsg("Subscription Resumed! "+resume_sub.id);
+                  paymentRow.innerHTML = generateHtmlForSubs(resume_sub);
+                  
+              }
+          });
+      };
+      
+
+      init();
+  </script>
+</html>

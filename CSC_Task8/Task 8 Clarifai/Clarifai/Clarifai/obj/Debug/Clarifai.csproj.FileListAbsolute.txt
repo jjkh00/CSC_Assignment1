@@ -1,0 +1,512 @@
+D:\CSC\Assignment\Clarifai\Clarifai\bin\ApplicationInsights.config
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Clarifai.dll.config
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Clarifai.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Clarifai.pdb
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\csc.exe
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\csc.exe.config
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\csc.rsp
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\csi.exe
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\csi.exe.config
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\csi.rsp
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.AppContext.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Collections.Immutable.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Console.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Diagnostics.Process.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.IO.Compression.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.IO.FileSystem.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.IO.Pipes.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Reflection.Metadata.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Security.AccessControl.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Security.Claims.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Threading.Thread.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.ValueTuple.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Xml.XPath.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\vbc.exe
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\vbc.exe.config
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\vbc.rsp
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\VBCSCompiler.exe
+D:\CSC\Assignment\Clarifai\Clarifai\bin\roslyn\VBCSCompiler.exe.config
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Antlr3.Runtime.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\EntityFramework.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\EntityFramework.SqlServer.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AI.DependencyCollector.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AI.Web.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AI.WindowsServer.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.ApplicationInsights.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Security.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Google.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Web.Infrastructure.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Newtonsoft.Json.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Owin.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Net.Http.Formatting.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.Helpers.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.Http.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.Http.Owin.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.Http.WebHost.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.Mvc.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.Optimization.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.Razor.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.WebPages.Deployment.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.WebPages.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.WebPages.Razor.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\WebGrease.dll
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Newtonsoft.Json.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Net.Http.Formatting.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.Helpers.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.Http.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.Http.WebHost.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.Mvc.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.Optimization.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.Razor.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.WebPages.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.WebPages.Deployment.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.WebPages.Razor.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Antlr3.Runtime.pdb
+D:\CSC\Assignment\Clarifai\Clarifai\bin\EntityFramework.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\EntityFramework.SqlServer.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Security.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Google.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\System.Web.Http.Owin.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.ApplicationInsights.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AI.DependencyCollector.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AI.WindowsServer.xml
+D:\CSC\Assignment\Clarifai\Clarifai\bin\Microsoft.AI.Web.xml
+D:\CSC\Assignment\Clarifai\Clarifai\obj\Debug\Clarifai.csprojResolveAssemblyReference.cache
+D:\CSC\Assignment\Clarifai\Clarifai\obj\Debug\Clarifai.csproj.CoreCompileInputs.cache
+D:\CSC\Assignment\Clarifai\Clarifai\obj\Debug\Clarifai.csproj.CopyComplete
+D:\CSC\Assignment\Clarifai\Clarifai\obj\Debug\Clarifai.dll
+D:\CSC\Assignment\Clarifai\Clarifai\obj\Debug\Clarifai.pdb
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\ApplicationInsights.config
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Clarifai.dll.config
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Clarifai.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Clarifai.pdb
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\csc.exe
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\csc.exe.config
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\csc.rsp
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\csi.exe
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\csi.exe.config
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\csi.rsp
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.AppContext.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Console.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Claims.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\vbc.exe
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\vbc.exe.config
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\vbc.rsp
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Antlr3.Runtime.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\EntityFramework.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.Web.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Newtonsoft.Json.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Owin.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Net.Http.Formatting.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.Helpers.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.Http.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.Http.Owin.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.Http.WebHost.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.Mvc.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.Optimization.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.Razor.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\WebGrease.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Newtonsoft.Json.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Net.Http.Formatting.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.Helpers.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.Http.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.Http.WebHost.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.Mvc.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.Optimization.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.Razor.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Antlr3.Runtime.pdb
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\EntityFramework.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\System.Web.Http.Owin.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.Web.xml
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.csprojAssemblyReference.cache
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.csproj.CopyComplete
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.dll
+C:\Users\Daniel\Downloads\Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.pdb
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\ApplicationInsights.config
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Clarifai.dll.config
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Clarifai.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Clarifai.pdb
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\csc.exe
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\csc.exe.config
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\csc.rsp
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\csi.exe
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\csi.exe.config
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\csi.rsp
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.AppContext.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Collections.Immutable.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Console.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Diagnostics.Process.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.Compression.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.FileSystem.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.Pipes.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.AccessControl.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Claims.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Threading.Thread.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.ValueTuple.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Xml.XPath.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\vbc.exe
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\vbc.exe.config
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\vbc.rsp
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\VBCSCompiler.exe
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\VBCSCompiler.exe.config
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Antlr3.Runtime.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\EntityFramework.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\EntityFramework.SqlServer.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.DependencyCollector.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.Web.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.WindowsServer.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.ApplicationInsights.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Google.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Web.Infrastructure.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Newtonsoft.Json.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Owin.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Net.Http.Formatting.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Helpers.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Http.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Http.Owin.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Http.WebHost.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Mvc.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Optimization.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Razor.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.Deployment.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.Razor.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\WebGrease.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Newtonsoft.Json.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Net.Http.Formatting.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Helpers.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Http.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Http.WebHost.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Mvc.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Optimization.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Razor.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.Deployment.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.Razor.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Antlr3.Runtime.pdb
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\EntityFramework.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\EntityFramework.SqlServer.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Google.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Http.Owin.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.ApplicationInsights.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.DependencyCollector.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.WindowsServer.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.Web.xml
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.csprojResolveAssemblyReference.cache
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.csproj.CoreCompileInputs.cache
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.csproj.CopyComplete
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.dll
+D:\Sp Year 3\CSC\Assignment\Assignment\Task 7 Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.pdb
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\ApplicationInsights.config
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Clarifai.dll.config
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Clarifai.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Clarifai.pdb
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\csc.exe
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\csc.exe.config
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\csc.rsp
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\csi.exe
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\csi.exe.config
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\csi.rsp
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.AppContext.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Console.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.Compression.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.IO.Pipes.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Claims.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Threading.Thread.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.ValueTuple.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Xml.XPath.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\vbc.exe
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\vbc.exe.config
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\vbc.rsp
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\VBCSCompiler.exe
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Antlr3.Runtime.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\EntityFramework.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\EntityFramework.SqlServer.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.Web.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.ApplicationInsights.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Newtonsoft.Json.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Owin.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Net.Http.Formatting.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Helpers.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Http.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Http.Owin.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Http.WebHost.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Mvc.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Optimization.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Razor.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.Deployment.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.Razor.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\WebGrease.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Newtonsoft.Json.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Net.Http.Formatting.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Helpers.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Http.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Http.WebHost.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Mvc.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Optimization.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Razor.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.Deployment.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.WebPages.Razor.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Antlr3.Runtime.pdb
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\EntityFramework.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\EntityFramework.SqlServer.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\System.Web.Http.Owin.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.ApplicationInsights.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\bin\Microsoft.AI.Web.xml
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.csprojAssemblyReference.cache
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.csproj.CoreCompileInputs.cache
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.csproj.CopyComplete
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.dll
+C:\Users\khoo_\Downloads\Task 7 Clarifai-20200620T124246Z-001\Task 7 Clarifai\Clarifai\Clarifai\obj\Debug\Clarifai.pdb

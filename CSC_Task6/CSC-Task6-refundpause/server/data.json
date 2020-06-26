@@ -1,0 +1,101 @@
+{
+    "_meta":{
+        "template_version":0
+    },
+    "fixtures": [
+    {
+    "name" : "my_customer",
+    "path" : "/v1/customers",
+    "method" : "post",
+    "params" : {
+        "name": "test doe",
+        "email" : "test_test@test.com",
+        "address" : {
+            "line1" : "test street",
+            "city" : "Singapore"
+        }
+    }
+},
+{
+    "name": "regular_card_pm",
+    "path" : "/v1/payment_methods/pm_card_visa/attach",
+    "method" : "post",
+    "params" : {
+        "customer" : "${my_customer:id}" 
+    }
+},
+{
+    "name": "refund_will_fail_pm",
+    "path" : "/v1/payment_methods/pm_card_refundFail/attach",
+    "method" : "post",
+    "params" : {
+        "customer" : "${my_customer:id}" 
+    }
+},
+{
+    "path": "/v1/payment_intents",
+    "method" : "post",
+    "params" : {
+        "customer" : "${my_customer:id}",
+        "payment_method" : "${refund_will_fail_pm:id}",
+        "confirm" : true,
+        "amount" : 13500,
+        "currency" : "sgd",
+        "metadata[lessons]" :3,
+        "description": "refund should fail"
+    }
+},
+{
+    "path": "/v1/payment_intents",
+    "method" : "post",
+    "params" : {
+        "customer" : "${my_customer:id}",
+        "payment_method" : "${refund_will_fail_pm:id}",
+        "confirm" : true,
+        "amount" : 9000,
+        "currency" : "sgd",
+        "metadata[lessons]" :2,
+        "description": "refund should fail"
+    }
+},
+{
+    "path": "/v1/payment_intents",
+    "method" : "post",
+    "params" : {
+        "customer" : "${my_customer:id}",
+        "payment_method" : "${refund_will_fail_pm:id}",
+        "confirm" : true,
+        "amount" : 4500,
+        "currency" : "sgd",
+        "metadata[lessons]" :1,
+        "description": "refund should fail"
+    }
+},
+{
+    "path": "/v1/payment_intents",
+    "method" : "post",
+    "params" : {
+        "customer" : "${my_customer:id}",
+        "payment_method" : "${regular_card_pm:id}",
+        "confirm" : true,
+        "amount" : 9000,
+        "currency" : "sgd",
+        "metadata[lessons]" :2,
+        "description": "2 sessions on June 12th"
+    }
+},
+{
+    "path": "/v1/payment_intents",
+    "method" : "post",
+    "params" : {
+        "customer" : "${my_customer:id}",
+        "payment_method":"${regular_card_pm:id}",
+        "confirm" : true,
+        "amount" : 4500,
+        "currency" : "sgd",
+        "metadata[lessons]" :1,
+        "description": "1 sessions on June 13th"
+    }
+}
+    ]
+}
