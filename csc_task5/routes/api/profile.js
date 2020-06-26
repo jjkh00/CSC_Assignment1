@@ -10,15 +10,15 @@ const router = express.Router();
 
 
 const BitlyClient = require('bitly').BitlyClient;
-const bitly = new BitlyClient('64948d9a94ed29df9ce4abe09ca4435b777f3171');
+const bitly = new BitlyClient('***');
 
 
 /**
  * PROFILE IMAGE STORING STARTS
  */
 const s3 = new aws.S3({
-    accessKeyId: 'AKIAQHTZOSPSRJJSV235',
-    secretAccessKey: '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',
+    accessKeyId: '***',
+    secretAccessKey: '***',
     Bucket: 'task5cscbucket'
    });
 
